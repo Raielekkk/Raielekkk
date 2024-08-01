@@ -4,4 +4,4 @@
 
  
  *Vou fazer uma breve presentação sobre mim.*
-- *Me chamo Emily Raiele - ou só Raiele - e estou estudando Tecnologia e Robotica na* [Alura](www.
+- *Me chamo Emily Raiele - ou só Raiele - e estou estudando Tecnologia e Robotica na* [Alura](https://www.alura.com.br)

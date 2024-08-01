@@ -8,6 +8,8 @@
 - *Também estou - pelo menos tentando - me desenvolver na linguagem JavaScript*
 - *Vou utilizar isto aqui para compartilhar os meus projetinhos que desenvolvi na escola :)*
 
+![](https://media.tenor.com/9BZPET6yWXIAAAAM/stray-kids-skz.gif)
+
 **★🎸🎧⋆｡✩࿐࿔**
 
   *É só isso.*
